@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Kai\Desktop\idea\spring_hibernate_aop\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3215016040.index
+872378710.index
+2604624774.index
+3617312122.index
+1342716175.index
