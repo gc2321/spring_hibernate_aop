@@ -49,12 +49,13 @@
 <fullyQualifiedTypeName name="com.luv2code.hibernate.demo.entity.Instructor"/>
 <fullyQualifiedTypeName name="com.luv2code.hibernate.demo.entity.InstructorDetail"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.CascadeType"/>
-<fullyQualifiedTypeName name="javax.persistence.Entity"/>
-<fullyQualifiedTypeName name="javax.persistence.Table"/>
-<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
 <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="javax.persistence.FetchType"/>
 <fullyQualifiedTypeName name="org.hibernate.query.Query"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="javax.persistence.FetchType"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.luv2code.hibernate.demo.entity.Student"/>
 </qualifiedTypeNameHistroy>
