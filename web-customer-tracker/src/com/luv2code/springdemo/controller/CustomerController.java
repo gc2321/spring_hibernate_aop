@@ -74,11 +74,8 @@ public class CustomerController {
 		// delete the customer
 		customerService.deleteCustomer(theId);
 		
-		
-		// send over to our form		
 		return "redirect:/customer/list";
 	}
-	
 }
 
 

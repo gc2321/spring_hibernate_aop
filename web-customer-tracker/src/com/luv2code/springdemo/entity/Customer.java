@@ -10,7 +10,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name="customer")
 public class Customer {
-	
+
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	@Column(name="id")
@@ -25,7 +25,7 @@ public class Customer {
 	@Column(name="email")
 	private String email;
 	
-	public Customer(){
+	public Customer() {
 		
 	}
 
@@ -65,8 +65,10 @@ public class Customer {
 	public String toString() {
 		return "Customer [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", email=" + email + "]";
 	}
+		
+}
 
-	
-	
-	
-}	
+
+
+
+
