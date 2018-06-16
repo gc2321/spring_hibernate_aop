@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\Kai\Desktop\idea\spring_hibernate_aop\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Kai\Desktop\idea\spring_hibernate_aop\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\spring-security-demo-04-bootstrap-login-form" path="/spring-security-demo-04-bootstrap-login-form" reloadable="true" source="org.eclipse.jst.jee.server:spring-security-demo-04-bootstrap-login-form"/><Context docBase="C:\Users\Kai\Desktop\idea\spring_hibernate_aop\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\spring-security-demo-05-logout" path="/spring-security-demo-05-logout" reloadable="true" source="org.eclipse.jst.jee.server:spring-security-demo-05-logout"/></Host>
+      <Context docBase="C:\Users\Kai\Desktop\idea\spring_hibernate_aop\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Kai\Desktop\idea\spring_hibernate_aop\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\spring-security-demo-07-user-roles" path="/spring-security-demo-07-user-roles" reloadable="true" source="org.eclipse.jst.jee.server:spring-security-demo-07-user-roles"/></Host>
     </Engine>
   </Service>
 </Server>
