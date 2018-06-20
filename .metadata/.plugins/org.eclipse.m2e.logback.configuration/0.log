@@ -819,3 +819,60 @@ org.eclipse.core.runtime.CoreException: Launch configuration App references clos
 2018-06-16 08:46:06,856 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\main\resources
 2018-06-16 08:46:06,865 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-06-16 08:46:06,905 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\test\resources
+2018-06-19 19:58:26,920 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-06-19 19:58:46,420 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 19:58:46,441 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-hibernate-video-course\spring-security-demo-01-base-app\src\main\resources
+2018-06-19 19:58:46,445 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 19:58:46,462 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-hibernate-video-course\spring-security-demo-01-base-app\src\test\resources
+2018-06-19 19:58:52,933 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 19:58:52,963 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-02-basic-security\src\main\resources
+2018-06-19 19:58:52,965 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 19:58:53,003 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-02-basic-security\src\test\resources
+2018-06-19 19:58:53,547 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 19:58:53,580 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-03-custom-login-form\src\main\resources
+2018-06-19 19:58:53,593 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 19:58:53,622 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-03-custom-login-form\src\test\resources
+2018-06-19 19:58:54,047 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 19:58:54,174 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-04-bootstrap-login-form\src\main\resources
+2018-06-19 19:58:54,190 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 19:58:54,281 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-04-bootstrap-login-form\src\test\resources
+2018-06-19 19:58:54,643 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 19:58:54,664 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-05-logout\src\main\resources
+2018-06-19 19:58:54,666 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 19:58:54,714 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-05-logout\src\test\resources
+2018-06-19 19:58:55,327 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 19:58:55,341 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\main\resources
+2018-06-19 19:58:55,343 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 19:58:55,362 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\test\resources
+2018-06-19 20:00:52,152 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:00:52,287 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\main\resources
+2018-06-19 20:00:52,289 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:00:52,317 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\test\resources
+2018-06-19 20:03:11,400 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:03:11,421 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\main\resources
+2018-06-19 20:03:11,511 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:03:11,578 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\test\resources
+2018-06-19 20:04:07,768 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:04:07,851 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\main\resources
+2018-06-19 20:04:07,853 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:04:07,882 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\test\resources
+2018-06-19 20:11:33,364 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:11:33,396 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\main\resources
+2018-06-19 20:11:33,409 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:11:33,436 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\test\resources
+2018-06-19 20:14:27,024 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:14:27,079 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\main\resources
+2018-06-19 20:14:27,081 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:14:27,209 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\test\resources
+2018-06-19 20:16:50,467 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:16:50,516 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\main\resources
+2018-06-19 20:16:50,534 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:16:50,554 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\test\resources
+2018-06-19 20:25:34,634 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:25:34,828 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\main\resources
+2018-06-19 20:25:34,830 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:25:34,854 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\test\resources
+2018-06-19 20:26:09,561 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:26:09,711 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\main\resources
+2018-06-19 20:26:09,731 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-06-19 20:26:09,812 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kai\Desktop\idea\spring_hibernate_aop\spring-security-demo-07-user-roles\src\test\resources

@@ -31,6 +31,8 @@
 		<item value="true" key="showtypes"/>
 	</section>
 	<section name="completion_proposal_size">
+		<item value="385" key="size.y"/>
+		<item value="541" key="size.x"/>
 	</section>
 	<section name="AddGetterSetterDialog">
 		<item value="false" key="SortOrdering"/>
